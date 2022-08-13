@@ -1,5 +1,5 @@
 # mdaheatwaves
-<img src="https://www.saperessere.com/wp-content/uploads/2013/08/logo-sapienza-new.jpg" width="300"/>
+<img src="https://github.com/soniasocadagui/mdaheatwaves/blob/main/img/Kuleuven.png" width="300"/>
 
 # Synthetic Data for BLENDER project
 ## Description
