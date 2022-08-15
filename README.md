@@ -48,11 +48,11 @@ pyenv virtualenv 3.9.5 <name>
 ```
 pyenv activate <name>
 ```
-4. Install the requirements.txt file into the virtual environment.
+4. Install the `requirements.txt` file into the virtual environment.
 ```
 pip install -r requirements.txt
 ```
-5. Download and decompress the file "datafiles.7z" attached in the drive folder.
+5. Download and decompress the file `datafiles.7z` attached in the drive folder.
 6. Replace the following folders of the cloned repository with the corresponding decompressed data.
 ```
 Heat Waves Impacts
@@ -60,7 +60,7 @@ Heat Waves Impacts
 │   ├── Global Burden of Disease study
 │   └── Temperature data
 ```
-7. For each Jupyter notebook available in the "code" folder, change the following path to your local directory where the repository was downloaded.
+7. For each Jupyter notebook available in the `code` folder, change the following path to your local directory where the repository was downloaded.
 ```
 # Main path
 root_path = r"C:\Users\Sonita\Documents\KU_Leuven\Subjects\2022-1\Modern Data Analytics\5. New_Project\github"
