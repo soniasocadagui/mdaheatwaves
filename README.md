@@ -1,4 +1,3 @@
-# mdaheatwaves
 <img src="https://github.com/soniasocadagui/mdaheatwaves/blob/main/img/Kuleuven.png" width="100"/>
 
 # Heat Wave Impacts on Human Health
