@@ -59,11 +59,21 @@ Heat Waves Impacts
 │   ├── Global Burden of Disease study
 │   └── Temperature data
 ```
-7. For each Jupyter notebook available in the `code` folder, change the following path to your local directory where the repository was downloaded.
+7. For each Jupyter notebook in the `code` folder, change the following `root_path` parameter to your local directory where the repository was downloaded.
 ```
 # Main path
 root_path = r"C:\Users\Sonita\Documents\KU_Leuven\Subjects\2022-1\Modern Data Analytics\5. New_Project\github"
 ``` 
+Take into account the new `root_path` should points out to these folders:
+```
+root_path: local directory
+├── code
+├── data
+├── img
+├── models
+└── output
+└── requirements.txt
+```
 8. Run the desired notebook.
 
 ## Useful commands
