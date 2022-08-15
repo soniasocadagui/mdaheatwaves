@@ -34,7 +34,7 @@ Heat Waves Impacts
 
 ```
 
-## Instructions
+## Instructions to run this repository's code
 
 1. Clone the repository.
 ```
