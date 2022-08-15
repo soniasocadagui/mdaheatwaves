@@ -1,0 +1,189 @@
+variable;description;source
+Year;Year used;Temperature data
+Country_code;Country code (ISO 3166 international standard - alpha of 2 characters);Temperature data
+Mean_temperature;Average temperature;Temperature data
+Min_temperature;Minimum temperature;Temperature data
+Max_temperature;Maximum temperature;Temperature data
+Country;Country name;Temperature data
+Country_code3;Country code (ISO 3166 international standard - alpha of 3 characters);Temperature data
+beds_mental_gen_hospt_per100K;Beds for mental health in general hospitals (per 100 000 population);Beds
+beds_comunity_resid_per100K;Beds in community residential facilities (per 100 000 population);Beds
+beds_mental_hospt_per100K;Beds in mental hospitals (per 100 000 population)  ;Beds
+nurses_mntl_per100K;Nurses working in mental health sector (per 100 000 population);Human resources
+psychiats_mntl_per100K;Psychiatrists working in mental health sector (per 100 000 population);Human resources
+psychols_mntl_per100K;Psychologists working in mental health sector (per 100 000 population);Human resources
+social_wkrs_mntl_per100K;Social workers working in mental health sector (per 100 000 population);Human resources
+expend_mental_hosp_perc;Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%);Mental health governance
+stand_alone_law_ment_hea;Stand-alone law for mental health;Mental health governance
+year_law_enacted;Year the law was enacted (latest revision);Mental health governance
+stand_alone_poli_ment_hea;Stand-alone policy or plan for mental health;Mental health governance
+year_policy_publication;Publication year of the policy or plan (latest revision);Mental health governance
+suicide_rate_est;Estimated suicide rate (punctual estimation per 100K);Suicide rate estimates, crude
+suicide_rate_low;Estimated suicide rate (low limit estimation per 100K);Suicide rate estimates, crude
+suicide_rate_high;Estimated suicide rate (high limit estimation per 100K);Suicide rate estimates, crude
+suicide_rate_est_MEN;Estimated suicide rate (punctual estimation per 100K) for men;Suicide rate estimates, crude
+suicide_rate_low_MEN;Estimated suicide rate (punctual estimation per 100K) for men;Suicide rate estimates, crude
+suicide_rate_high_MEN;Estimated suicide rate (punctual estimation per 100K) for men;Suicide rate estimates, crude
+suicide_rate_est_WMEN;Estimated suicide rate (punctual estimation per 100K) for women;Suicide rate estimates, crude
+suicide_rate_low_WMEN;Estimated suicide rate (punctual estimation per 100K) for women;Suicide rate estimates, crude
+suicide_rate_high_WMEN;Estimated suicide rate (punctual estimation per 100K) for women;Suicide rate estimates, crude
+comm_resi_faclts_per100K;Community residential facilities (per 100 000 population);Facilities
+ment_heal_day_per100K;Mental health day treatment facilities (per 100 000 population);Facilities
+ment_heal_out_per100K;Mental health outpatient facilities (per 100 000 population);Facilities
+ment_heal_gen_hosp_per100K;Mental health units in general hospitals (per 100 000 population);Facilities
+ment_hosp_per100K;Mental hospitals (per 100 000 population);Facilities
+Population;Country population;Population
+Per-Pre-Bot-Men_dis;Percent of Prevalence for Mental disorders (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Men_dis;Rate of Prevalence for Mental disorders (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Men_dis;Number of Prevalence for Mental disorders (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Res_inf_and_tub;Percent of Prevalence for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Res_inf_and_tub;Rate of Prevalence for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Res_inf_and_tub;Number of Prevalence for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Neo;Percent of Prevalence for Neoplasms (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Neo;Rate of Prevalence for Neoplasms (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Neo;Number of Prevalence for Neoplasms (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Car_dis;Percent of Prevalence for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Car_dis;Rate of Prevalence for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Car_dis;Number of Prevalence for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Chr_res_dis;Percent of Prevalence for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Chr_res_dis;Rate of Prevalence for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Chr_res_dis;Number of Prevalence for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Neu_dis;Percent of Prevalence for Neurological disorders (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Neu_dis;Rate of Prevalence for Neurological disorders (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Neu_dis;Number of Prevalence for Neurological disorders (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Sub_use_dis;Percent of Prevalence for Substance use disorders (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Sub_use_dis;Rate of Prevalence for Substance use disorders (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Sub_use_dis;Number of Prevalence for Substance use disorders (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Dia_and_kid_dis;Percent of Prevalence for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Dia_and_kid_dis;Rate of Prevalence for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Dia_and_kid_dis;Number of Prevalence for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Ski_and_sub_dis;Percent of Prevalence for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Ski_and_sub_dis;Rate of Prevalence for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Ski_and_sub_dis;Number of Prevalence for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Mus_dis;Percent of Prevalence for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Mus_dis;Rate of Prevalence for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Mus_dis;Number of Prevalence for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Nut_def;Percent of Prevalence for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Nut_def;Rate of Prevalence for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Nut_def;Number of Prevalence for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Dig_dis;Percent of Prevalence for Digestive diseases (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Dig_dis;Rate of Prevalence for Digestive diseases (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Dig_dis;Number of Prevalence for Digestive diseases (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Mal_ski_mel;Percent of Prevalence for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Mal_ski_mel;Rate of Prevalence for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Mal_ski_mel;Number of Prevalence for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Lip_and_ora_cav_can;Percent of Prevalence for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Lip_and_ora_cav_can;Rate of Prevalence for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Lip_and_ora_cav_can;Number of Prevalence for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Tra_bro_and_lun_can;Percent of Prevalence for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Tra_bro_and_lun_can;Rate of Prevalence for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Tra_bro_and_lun_can;Number of Prevalence for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Non_ski_can;Percent of Prevalence for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Non_ski_can;Rate of Prevalence for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Non_ski_can;Number of Prevalence for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Per-Pre-Bot-Tot_can;Percent of Prevalence for Total cancers (sex: Both);Global Burden of Disease study
+Rat-Pre-Bot-Tot_can;Rate of Prevalence for Total cancers (sex: Both);Global Burden of Disease study
+Num-Pre-Bot-Tot_can;Number of Prevalence for Total cancers (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Men_dis;Percent of Deaths for Mental disorders (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Men_dis;Rate of Deaths for Mental disorders (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Men_dis;Number of Deaths for Mental disorders (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Res_inf_and_tub;Percent of Deaths for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Res_inf_and_tub;Rate of Deaths for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Res_inf_and_tub;Number of Deaths for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Neo;Percent of Deaths for Neoplasms (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Neo;Rate of Deaths for Neoplasms (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Neo;Number of Deaths for Neoplasms (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Car_dis;Percent of Deaths for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Car_dis;Rate of Deaths for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Car_dis;Number of Deaths for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Chr_res_dis;Percent of Deaths for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Chr_res_dis;Rate of Deaths for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Chr_res_dis;Number of Deaths for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Neu_dis;Percent of Deaths for Neurological disorders (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Neu_dis;Rate of Deaths for Neurological disorders (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Neu_dis;Number of Deaths for Neurological disorders (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Sub_use_dis;Percent of Deaths for Substance use disorders (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Sub_use_dis;Rate of Deaths for Substance use disorders (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Sub_use_dis;Number of Deaths for Substance use disorders (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Dia_and_kid_dis;Percent of Deaths for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Dia_and_kid_dis;Rate of Deaths for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Dia_and_kid_dis;Number of Deaths for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Ski_and_sub_dis;Percent of Deaths for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Ski_and_sub_dis;Rate of Deaths for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Ski_and_sub_dis;Number of Deaths for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Mus_dis;Percent of Deaths for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Mus_dis;Rate of Deaths for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Mus_dis;Number of Deaths for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Nut_def;Percent of Deaths for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Nut_def;Rate of Deaths for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Nut_def;Number of Deaths for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Dig_dis;Percent of Deaths for Digestive diseases (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Dig_dis;Rate of Deaths for Digestive diseases (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Dig_dis;Number of Deaths for Digestive diseases (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Mal_ski_mel;Percent of Deaths for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Mal_ski_mel;Rate of Deaths for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Mal_ski_mel;Number of Deaths for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Lip_and_ora_cav_can;Percent of Deaths for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Lip_and_ora_cav_can;Rate of Deaths for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Lip_and_ora_cav_can;Number of Deaths for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Tra_bro_and_lun_can;Percent of Deaths for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Tra_bro_and_lun_can;Rate of Deaths for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Tra_bro_and_lun_can;Number of Deaths for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Non_ski_can;Percent of Deaths for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Non_ski_can;Rate of Deaths for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Non_ski_can;Number of Deaths for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Per-Dea-Bot-Tot_can;Percent of Deaths for Total cancers (sex: Both);Global Burden of Disease study
+Rat-Dea-Bot-Tot_can;Rate of Deaths for Total cancers (sex: Both);Global Burden of Disease study
+Num-Dea-Bot-Tot_can;Number of Deaths for Total cancers (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Men_dis;Percent of YLDs (Years Lived with Disability) for Mental disorders (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Men_dis;Rate of YLDs (Years Lived with Disability) for Mental disorders (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Men_dis;Number of YLDs (Years Lived with Disability) for Mental disorders (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Res_inf_and_tub;Percent of YLDs (Years Lived with Disability) for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Res_inf_and_tub;Rate of YLDs (Years Lived with Disability) for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Res_inf_and_tub;Number of YLDs (Years Lived with Disability) for Respiratory infections and tuberculosis (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Neo;Percent of YLDs (Years Lived with Disability) for Neoplasms (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Neo;Rate of YLDs (Years Lived with Disability) for Neoplasms (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Neo;Number of YLDs (Years Lived with Disability) for Neoplasms (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Car_dis;Percent of YLDs (Years Lived with Disability) for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Car_dis;Rate of YLDs (Years Lived with Disability) for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Car_dis;Number of YLDs (Years Lived with Disability) for Cardiovascular diseases (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Chr_res_dis;Percent of YLDs (Years Lived with Disability) for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Chr_res_dis;Rate of YLDs (Years Lived with Disability) for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Chr_res_dis;Number of YLDs (Years Lived with Disability) for Chronic respiratory diseases (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Neu_dis;Percent of YLDs (Years Lived with Disability) for Neurological disorders (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Neu_dis;Rate of YLDs (Years Lived with Disability) for Neurological disorders (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Neu_dis;Number of YLDs (Years Lived with Disability) for Neurological disorders (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Sub_use_dis;Percent of YLDs (Years Lived with Disability) for Substance use disorders (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Sub_use_dis;Rate of YLDs (Years Lived with Disability) for Substance use disorders (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Sub_use_dis;Number of YLDs (Years Lived with Disability) for Substance use disorders (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Dia_and_kid_dis;Percent of YLDs (Years Lived with Disability) for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Dia_and_kid_dis;Rate of YLDs (Years Lived with Disability) for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Dia_and_kid_dis;Number of YLDs (Years Lived with Disability) for Diabetes and kidney diseases (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Ski_and_sub_dis;Percent of YLDs (Years Lived with Disability) for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Ski_and_sub_dis;Rate of YLDs (Years Lived with Disability) for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Ski_and_sub_dis;Number of YLDs (Years Lived with Disability) for Skin and subcutaneous diseases (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Mus_dis;Percent of YLDs (Years Lived with Disability) for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Mus_dis;Rate of YLDs (Years Lived with Disability) for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Mus_dis;Number of YLDs (Years Lived with Disability) for Musculoskeletal disorders (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Nut_def;Percent of YLDs (Years Lived with Disability) for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Nut_def;Rate of YLDs (Years Lived with Disability) for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Nut_def;Number of YLDs (Years Lived with Disability) for Nutritional deficiencies (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Dig_dis;Percent of YLDs (Years Lived with Disability) for Digestive diseases (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Dig_dis;Rate of YLDs (Years Lived with Disability) for Digestive diseases (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Dig_dis;Number of YLDs (Years Lived with Disability) for Digestive diseases (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Mal_ski_mel;Percent of YLDs (Years Lived with Disability) for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Mal_ski_mel;Rate of YLDs (Years Lived with Disability) for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Mal_ski_mel;Number of YLDs (Years Lived with Disability) for Malignant skin melanoma (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Lip_and_ora_cav_can;Percent of YLDs (Years Lived with Disability) for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Lip_and_ora_cav_can;Rate of YLDs (Years Lived with Disability) for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Lip_and_ora_cav_can;Number of YLDs (Years Lived with Disability) for Lip and oral cavity cancer (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Tra_bro_and_lun_can;Percent of YLDs (Years Lived with Disability) for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Tra_bro_and_lun_can;Rate of YLDs (Years Lived with Disability) for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Tra_bro_and_lun_can;Number of YLDs (Years Lived with Disability) for Tracheal, bronchus, and lung cancer (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Non_ski_can;Percent of YLDs (Years Lived with Disability) for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Non_ski_can;Rate of YLDs (Years Lived with Disability) for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Non_ski_can;Number of YLDs (Years Lived with Disability) for Non-melanoma skin cancer (sex: Both);Global Burden of Disease study
+Per-YLD-Bot-Tot_can;Percent of YLDs (Years Lived with Disability) for Total cancers (sex: Both);Global Burden of Disease study
+Rat-YLD-Bot-Tot_can;Rate of YLDs (Years Lived with Disability) for Total cancers (sex: Both);Global Burden of Disease study
+Num-YLD-Bot-Tot_can;Number of YLDs (Years Lived with Disability) for Total cancers (sex: Both);Global Burden of Disease study
+Heat_wave;Flag for Heat Wave;Temperature data
